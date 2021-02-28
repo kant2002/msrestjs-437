@@ -1,0 +1,14 @@
+{
+  "name": "msrestjs",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "webpack"
+  },
+  "dependencies": {
+    "@azure/ms-rest-js": "2.2.3",
+    "ts-loader": "8.0.17",
+    "webpack": "5.24.2",
+    "webpack-cli": "4.5.0"
+  }
+}

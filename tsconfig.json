@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "target": "ES2019",
+      "strict": true,
+      "module": "commonjs",
+      "allowJs": true,
+    },
+    "exclude": [
+      "node_modules",
+      "dist",
+      "webpack.config.js"
+    ]
+  }
+  
